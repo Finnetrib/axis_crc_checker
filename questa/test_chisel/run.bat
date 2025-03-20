@@ -1,0 +1,1 @@
+qrun -f qrun.f -g TEST_TYPE=1
